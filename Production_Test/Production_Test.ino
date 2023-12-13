@@ -36,7 +36,7 @@ void setup()
   while (!Serial)
   {
     delay(100); // Wait for the user to open the Serial Monitor
-  };
+  }
   Serial.println("SparkFun ADS1219 Production Test");
 }
 
