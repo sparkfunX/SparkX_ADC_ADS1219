@@ -1,7 +1,7 @@
 SparkX Qwiic ADC ADS1219 - 24-Bit 4-Channel
 ========================================
 
-![SparkX Qwiic 24-Bit ADC - 4-Channel ADS1219]()
+![SparkX Qwiic 24-Bit ADC - 4-Channel ADS1219](https://cdn.sparkfun.com/r/600-600/assets/parts/2/3/7/6/5/23455-Qwiic-24-bit-ADC-4-channel-Feature.jpg)
 
 [*SparkX Qwiic 24-Bit ADC - 4-Channel ADS1219 (SPX-23455)*](https://www.sparkfun.com/products/23455)
 
